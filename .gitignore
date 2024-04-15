@@ -1,0 +1,14 @@
+**/log_files/
+
+**/MS2/
+
+**/__pycache__/
+**/*.mol
+**/*.pyc
+
+**/temp_pickles/
+**/temp_pickles_out/
+**/.temp_pickles/
+**/.temp_pickles_out/
+**/*.pickle
+
