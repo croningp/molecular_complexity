@@ -1,1 +1,10 @@
-This is a repository for the research paper 'Investigating and Quantifying Molecular Complexity Using Assembly Theory and Spectroscopy'. DOI: 10.1021/acscentsci.4c00120
+# Investigating and Quantifying Molecular Complexity Using Assembly Theory and Spectroscopy
+
+<a href="https://doi.org/10.1021/acscentsci.4c00120" style="background-color: #ffffcc; padding: 5px; color: black; font-weight:bold;">DOI: 10.1021/acscentsci.4c00120</a>
+
+## This is a repository for the research paper 'Investigating and Quantifying Molecular Complexity Using Assembly Theory and Spectroscopy'. 
+
+#### Authors: Michael Jirasek, Abhishek Sharma, Jessica R. Bame, S. Hessam M. Mehr, Nicola Bell, Stuart M. Marshall, Cole Mathis, Alasdair MacLeod, Geoffrey J. T. Cooper, Marcel Swart, Rosa Mollfulleda, and Leroy Cronin*
+#### School of Chemistry, The University of Glasgow, University Avenue, Glasgow G12 8QQ, United Kingdom
+
+Abstract: Current approaches to evaluate molecular complex ity use algorithmic complexity, rooted in computer science, and thus are not experimentally measurable. Directly evaluating molecular complexity could be used to study directed vs undirected processes in the creation of molecules, with potential applications in drug discovery, the origin of life, and artificial life. Assembly theory has been developed to quantify the complexity of a molecule by finding the shortest path to construct the molecule from building blocks, revealing its molecular assembly index (MA). In this study, we present an approach to rapidly infer the MA of molecules from spectroscopic measurements. We demonstrate that the MA can be experimentally measured by using three independent techniques: nuclear magnetic resonance (NMR), tandem mass spectrometry (MS/MS), and infrared spectroscopy (IR). By identifying and analyzing the number of absorbances in IR spectra, carbon resonances in NMR, or molecular fragments in tandem MS, the MA of an unknown molecule can be reliably estimated. This represents the first experimentally quantifiable approach to determining molecular assembly. This paves the way to use experimental techniques to explore the evolution of complex molecules as well as a unique marker of where an evolutionary process has been operating.
